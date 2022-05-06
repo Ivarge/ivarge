@@ -1,0 +1,14 @@
+let a = "fine";
+// let b = 33;
+// let c = true;
+// console.log("a:" + a + " have type:" + typeof(a));
+// console.log("b:" + b + " have type:" + typeof(b));
+// console.log("c:" + c + " have type:" + typeof(c));
+// let a = prompt("Введите свое имя");
+// let b = prompt("Введите свой возраст");
+// console.log(a + " " + b);
+// let a = 2;
+// let b = 3;
+// b = [a, a = b][0];
+// console.log(a + " " +  b);
+console.log(a.charAt(1));
