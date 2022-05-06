@@ -11,4 +11,4 @@ let a = "fine";
 // let b = 3;
 // b = [a, a = b][0];
 // console.log(a + " " +  b);
-// console.log(a.charAt(1));
+ console.log(a.charAt(1));
